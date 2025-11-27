@@ -19,6 +19,6 @@ public class day1 {
                         for (int num : queue) {
                             System.out.print(num + " ");
                         }
-                        System.out.println("I Am Sara");
+                       System.out.println("\nThis is a new updated code!");
                     }
                 }
